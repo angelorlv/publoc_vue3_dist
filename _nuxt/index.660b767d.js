@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{c as s,o as c,a as t}from"./entry.d008ba6d.js";const o={},n={class:"w-screen h-screen flex justify-center items-center"},r=t("span",{class:""}," En cours de construction .... ",-1),a=[r];function _(i,d){return c(),s("div",n,a)}const m=e(o,[["render",_]]);export{m as default};
