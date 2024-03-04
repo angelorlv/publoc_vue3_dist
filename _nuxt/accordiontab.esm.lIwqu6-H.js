@@ -1,5 +1,1 @@
-<<<<<<<< HEAD:_nuxt/accordiontab.esm.lIwqu6-H.js
 import{s as r}from"./basecomponent.esm.MS1ObfXz.js";import{W as n}from"./entry.sPeV4ugY.js";var t={},o={name:"BaseAccordionTab",extends:r,props:{header:null,headerStyle:null,headerClass:null,headerProps:null,headerActionProps:null,contentStyle:null,contentClass:null,contentProps:null,disabled:Boolean},style:t,provide:function(){return{$parentInstance:this}}},a={name:"AccordionTab",extends:o};function l(e,s,d,c,p,i){return n(e.$slots,"default")}a.render=l;export{a as default};
-========
-import{s as r}from"./basecomponent.esm.vCjcc5sE.js";import{V as n}from"./entry.gBsFnzxz.js";var t={},o={name:"BaseAccordionTab",extends:r,props:{header:null,headerStyle:null,headerClass:null,headerProps:null,headerActionProps:null,contentStyle:null,contentClass:null,contentProps:null,disabled:Boolean},style:t,provide:function(){return{$parentInstance:this}}},a={name:"AccordionTab",extends:o};function l(e,s,d,c,p,i){return n(e.$slots,"default")}a.render=l;export{a as default};
->>>>>>>> 017cf1ad67fe447c35da0b7cac4510aff8c6cdf1:_nuxt/accordiontab.esm.m9lH4tBm.js
