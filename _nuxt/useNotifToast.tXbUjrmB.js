@@ -1,0 +1,1 @@
+import{av as s}from"./entry.sPeV4ugY.js";const n=()=>{const r=s();function o(){r.add({severity:"error",summary:"Erreur de connexion avec le serveur",detail:"Impossible de se connecter avec le serveur.",life:3e3})}function t(e){e.life||(e.life=3e3),r.add(e)}return{setErrorServer:o,setNotifToast:t}};export{n as u};

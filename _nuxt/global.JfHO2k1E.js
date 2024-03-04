@@ -1,0 +1,1 @@
+import{at as e}from"./entry.sPeV4ugY.js";const l=e("global",{state:()=>({profil:{},connected:!1,showAdminSidebar:!1,showAnnSidebar:!1,showRegSidebar:!1,prefix_api:"/api/v2",size:{headerAdmin:70},panel_impression_type:[{label:"Aucun",code:"aucun"},{label:"Vynil",code:"vynil"},{label:"Bache",code:"bache"},{label:"Papier Coucher",code:"papier_coucher"}]})});export{l as u};
